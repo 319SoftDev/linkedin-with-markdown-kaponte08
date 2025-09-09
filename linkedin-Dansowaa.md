@@ -8,6 +8,7 @@
 **Languages**:
 * _HTML_
 * English
+* Twi
 
 **Hobbies**: Art
 
