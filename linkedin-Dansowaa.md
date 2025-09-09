@@ -13,3 +13,5 @@
 * Twi
 
 **Hobbies**: Art
+
+**Socials**: [Linkedin](https://www.linkedin.com/in/dansowaa-andoh-b45367369)
