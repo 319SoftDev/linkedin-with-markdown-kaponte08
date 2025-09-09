@@ -3,7 +3,7 @@
 
 **Birthday**: October 6th  
 **Experiences**: 
-* Warby Parker  
+* Warby Parker Workplace Challenge
 
 **Languages**:
 * _HTML_
