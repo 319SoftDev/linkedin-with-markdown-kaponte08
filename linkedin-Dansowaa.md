@@ -6,7 +6,7 @@
 * Warby Parker  
 
 **Languages**:
-* HTML
+* _HTML_
 * English
 
 **Hobbies**: Art
