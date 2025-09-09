@@ -7,6 +7,7 @@
 
 **Languages**:
 * _HTML_
+* _Python_
 * English
 * Twi
 
