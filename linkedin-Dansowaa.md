@@ -3,9 +3,12 @@
 
 **Birthday**: October 6th  
 **Experiences**: 
-* Warby Parker
+* Warby Parker  
+
 **Languages**:
 * HTML
 * English
+
 **Hobbies**: Art
+
 **Additional Information**:
