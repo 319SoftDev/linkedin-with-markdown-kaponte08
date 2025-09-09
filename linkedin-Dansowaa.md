@@ -12,5 +12,3 @@
 * Twi
 
 **Hobbies**: Art
-
-**Additional Information**:
