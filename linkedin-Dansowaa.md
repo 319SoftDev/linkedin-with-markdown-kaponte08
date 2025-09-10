@@ -1,5 +1,5 @@
 # Dansowaa Andoh
-### _16 year_ old  _software major_ at the **_High School of Fashion Industries_**
+#### _16 year_ old  _software major_ at the **_High School of Fashion Industries_**
 ![Dansowaa during sophomore year](https://github.com/319SoftDev/linkedin-with-markdown-kaponte08/blob/main/unnamed1.jpg)
 
 **Birthday**: October 6th
