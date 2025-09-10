@@ -16,4 +16,4 @@
 
 **Hobbies**: Art
 
-**Socials**: [Linkedin](https://www.linkedin.com/in/dansowaa-andoh-b45367369)
+**How to contact me**: [Linkedin](https://www.linkedin.com/in/dansowaa-andoh-b45367369)
